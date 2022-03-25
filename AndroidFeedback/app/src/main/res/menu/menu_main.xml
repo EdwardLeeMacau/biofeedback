@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bluetooth"
+        android:title="Bluetooth">
+        <menu android:id="@+id/bluetoothDevice">
+            <item android:id="@+id/disconnectBluetooth"
+                android:title="Disconnect"></item>
+            <item android:id="@+id/connectBluetooth"
+                android:title="Connect"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/debug"
+    android:title="Debug"
+    android:checkable="true"
+    android:checked="true">
+</item>
+</menu>

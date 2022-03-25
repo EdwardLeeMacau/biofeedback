@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/heartrate"
+        android:title="Heart Rate">
+    </item>
+    <item android:id="@+id/temperature"
+        android:title="Temperature">
+    </item>
+    <item android:id="@+id/conductance"
+        android:title="Conductance">
+    </item>
+</menu>

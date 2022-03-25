@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Biofeedback</string>
+    <string-array name="bioSignals">
+        <item>Temperature</item>
+        <item>Conductance</item>
+        <item>HeartRate</item>
+    </string-array>
+</resources>
